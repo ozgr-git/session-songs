@@ -4,6 +4,7 @@
 * cantaloupe island
 * cantaloupe woman
 * chicken
+* chitlins con carne
 * cissy strut
 * cold duck time 
 * coming home baby
