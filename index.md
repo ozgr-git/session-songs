@@ -24,10 +24,7 @@
 * way back home
 * what it is 
 
-
-## Vocal
-
-### Tommie
+## Tommie
 * 6345789
 * aint nobodys business
 * doin it till death
@@ -48,7 +45,7 @@
 * whos been talkin
 * woman across the river
 
-### Bernd
+## Bernd
 * black magic woman
 * checking out on my baby
 * groovin
@@ -66,7 +63,7 @@
 * you dont know what love is
 * you not get no younger man 
 
-### James
+## James
 * aint no sunshine
 * boogie on reggae woman
 * born under a bad sign
@@ -81,7 +78,7 @@
 * use me 
 * who is he
 
-### Patrick
+## Patrick
 * damn your eyes
 * expansions
 * fly like an eagle
@@ -89,7 +86,7 @@
 * joy and pain
 * you got to help me
 
-### Martelle
+## Martelle
 * big leg woman
 * changed my way of living
 * cocaine
@@ -98,10 +95,10 @@
 * real mother for ya
 * soon as i get paid
 
-### Earnie
+## Earnie
 * congo square
 * i shiver
 
-### Werner
+## Werner
 * i put a spell on you
 * st james infirmary
