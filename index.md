@@ -4,7 +4,6 @@
 * cantaloupe island
 * cantaloupe woman
 * chicken
-* chitlins con carne
 * cissy strut
 * cold duck time 
 * coming home baby
@@ -17,6 +16,7 @@
 * pass the peas
 * put it where you want it
 * right on brother
+* shake everthing youve got
 * sookie sookie
 * strassbourg st denise
 * turtle walk
@@ -44,6 +44,8 @@
 * them changes
 * thrill is gone
 * tighten up
+* when something is wrong with my baby
+* whos been talkin
 * woman across the river
 
 ### Bernd
@@ -98,3 +100,8 @@
 
 ### Earnie
 * congo square
+* i shiver
+
+### Werner
+* i put a spell on you
+* st james infirmary
